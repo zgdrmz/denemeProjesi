@@ -1,0 +1,2 @@
+# denemeProjesi
+deneme projedir
